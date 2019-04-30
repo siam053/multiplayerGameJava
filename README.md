@@ -18,3 +18,5 @@ refreshing it will send data to server as string. and client reciever will recei
 client side it will be updated using players playerdata each time refreshed. By pressing space bullets
 will be shooted. Then if it hits any other player health of the player will decrease. game will be over
 if health is 0. after game over score of file will be updated in GameWindow.
+
+The game is not yet completed. It'll be completed soon.
