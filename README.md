@@ -28,5 +28,5 @@ Project Members: 1. Wakil Islam (wakilislam.24csedu.026@gmail.com)
                  
 Project Mentor: Hasnain Heickal 
                 Assistant Professor, Dept. of Computer Science and Engineering, University of Dhaka 
-                Mail:  hasnain@cse.du.ac.bd
+                Mail: hasnain@cse.du.ac.bd
 </pre>
