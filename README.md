@@ -21,11 +21,12 @@ if health is 0. after game over score of file will be updated in GameWindow.
 
 The game is not yet completed. It'll be completed soon.
 
+<pre>
 Project Members: 1. Wakil Islam (wakilislam.24csedu.026@gmail.com)
                  2. Siam Ahmed (siam.24csedu.053@gmail.com)
                  3. Ather Nur Kaushitk (kaushik10762@gmail.com)
                  
-Project Mentor: Hasnain Heickal <br/>
-                Assistant Professor, Dept. of Computer Science and Engineering, University of Dhaka
+Project Mentor: Hasnain Heickal 
+                Assistant Professor, Dept. of Computer Science and Engineering, University of Dhaka 
                 Mail:  hasnain@cse.du.ac.bd
-                
+</pre>
